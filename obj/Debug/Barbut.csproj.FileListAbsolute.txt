@@ -1,0 +1,16 @@
+C:\Users\Theo\source\repos\Barbut'\Barbut'\bin\Debug\Barbut'.exe.config
+C:\Users\Theo\source\repos\Barbut'\Barbut'\bin\Debug\Barbut'.exe
+C:\Users\Theo\source\repos\Barbut'\Barbut'\bin\Debug\Barbut'.pdb
+C:\Users\Theo\source\repos\Barbut'\Barbut'\obj\Debug\Barbut.csproj.AssemblyReference.cache
+C:\Users\Theo\source\repos\Barbut'\Barbut'\obj\Debug\Barbut.csproj.SuggestedBindingRedirects.cache
+C:\Users\Theo\source\repos\Barbut'\Barbut'\obj\Debug\Barbut_.Form1.resources
+C:\Users\Theo\source\repos\Barbut'\Barbut'\obj\Debug\Barbut_.Properties.Resources.resources
+C:\Users\Theo\source\repos\Barbut'\Barbut'\obj\Debug\Barbut.csproj.GenerateResource.cache
+C:\Users\Theo\source\repos\Barbut'\Barbut'\obj\Debug\Barbut.csproj.CoreCompileInputs.cache
+C:\Users\Theo\source\repos\Barbut'\Barbut'\obj\Debug\Barbut'.exe
+C:\Users\Theo\source\repos\Barbut'\Barbut'\obj\Debug\Barbut'.pdb
+C:\Users\Theo\source\repos\Barbut'\Barbut'\obj\Debug\Barbut_.Open.resources
+C:\Users\Theo\source\repos\Barbut'\Barbut'\obj\Debug\Barbut_.Regulament.resources
+C:\Users\Theo\source\repos\Barbut'\Barbut'\obj\Debug\Barbut_.Barbut_extra.resources
+C:\Users\Theo\source\repos\Barbut'\Barbut'\obj\Debug\Barbut_.Regulament2.resources
+C:\Users\Theo\source\repos\Barbut'\Barbut'\obj\Debug\Barbut_.Castigator.resources
